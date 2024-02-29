@@ -1,3 +1,4 @@
+Bu proje C# tabanlı, SQL veritabanı, Entity Framework gibi teknolojiler kullanılarak kullanıcıların kişisel diyet programlarını oluşturmasına ve takip etmelerine yardımcı olan bir uygulamayı içerir.
 ![1](https://github.com/iremhatice/Diyet-Program-/assets/140323451/777a043d-e803-46f5-983e-6e78d72fd1a0)
 ![2](https://github.com/iremhatice/Diyet-Program-/assets/140323451/cc6cf155-fa19-4923-bb73-100744c6155a)
 ![3](https://github.com/iremhatice/Diyet-Program-/assets/140323451/a69795ca-7a8d-4325-87e7-844a00664659)
